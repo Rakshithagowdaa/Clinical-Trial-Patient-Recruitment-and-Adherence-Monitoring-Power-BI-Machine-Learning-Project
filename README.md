@@ -1,0 +1,2 @@
+# Clinical-Trial-Patient-Recruitment-and-Adherence-Monitoring-Power-BI-Machine-Learning-Project
+Developed a central command center for pharmaceutical trial managers to monitor patient recruitment and adherence in real time. Built ETL pipelines to integrate anonymized data from EDC and EMR systems, designed a star schema data model, and created interactive Power BI to visualize recruitment funnels, site performance, and adherence trends.
