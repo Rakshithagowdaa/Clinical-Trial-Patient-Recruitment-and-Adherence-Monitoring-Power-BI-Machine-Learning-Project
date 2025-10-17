@@ -1,0 +1,6 @@
+site_id,site_name,country,target_enrollment,pi_email
+SITE01,Site 1,UK,129,pi1@site.org
+SITE02,Site 2,USA,134,pi2@site.org
+SITE03,Site 3,UK,76,pi3@site.org
+SITE04,Site 4,UK,97,pi4@site.org
+SITE05,Site 5,USA,147,pi5@site.org
